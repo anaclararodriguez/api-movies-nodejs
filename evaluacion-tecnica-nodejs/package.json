@@ -1,0 +1,22 @@
+{
+  "name": "evaluacion-tecnica-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
